@@ -33,3 +33,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# carpete de dependencias de node npm install
+/node_modules
